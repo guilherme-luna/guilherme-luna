@@ -15,7 +15,7 @@ Software Engineering student at UFC (Quixadá). I build cloud and security-minde
 - Brazil + remote
 
 ## Projects
-**[Secure Multi-Client Messaging System](https://github.com/guilherme-luna/Sistema-de-Mensageria-Segura-Multi-Cliente)** · Python
+**[Secure Multi-Client Messaging System](https://github.com/guilherme-luna/secure-multi-client-messaging)** · Python
 - End-to-end encrypted chat: the server only relays, so an honest server cannot read messages
 - X25519 key exchange, AES-128-GCM, RSA-PSS signatures
 - Docker, CI and tests included
@@ -25,4 +25,4 @@ Software Engineering student at UFC (Quixadá). I build cloud and security-minde
 - One-command install, English and Portuguese
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/guilherme-cardoso-b8a3b5450)
+[LinkedIn](https://www.linkedin.com/in/guilherme-cardoso-b8a3b5450) · guilhermeluna.dev@gmail.com
