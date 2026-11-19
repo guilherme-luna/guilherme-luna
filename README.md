@@ -1,28 +1,16 @@
-# Hi, I'm Guilherme Luna 👋
-Software Engineering student at UFC (Quixadá). I build cloud and security-minded backends and automate business operations.
+# Guilherme Luna
 
-## Stack
-| Area | Tools |
-|---|---|
-| Cloud | AWS: EC2 · S3 · Lambda · Bedrock · IAM · DynamoDB · VPC |
-| Backend & DevOps | Python · Docker · GitHub Actions |
-| Security | X25519 · AES-GCM · RSA-PSS |
-| AI | Amazon Bedrock · Claude Code skills |
+Software Engineering student at UFC (Quixadá). I work on cloud security and secure system design on AWS, and on small automation projects.
 
-## Open to
-- Internships
-- Freelance: automation, integrations, business rules as a service
-- Brazil + remote
+Looking for an internship. Open to freelance work in automation and integrations.
+
+**Stack:** Python, Docker, GitHub Actions, Linux, Bash. AWS: EC2, S3, Lambda, IAM, DynamoDB, VPC, Bedrock.
 
 ## Projects
-**[Secure Multi-Client Messaging System](https://github.com/guilherme-luna/secure-multi-client-messaging)** · Python
-- End-to-end encrypted chat: the server only relays, so an honest server cannot read messages
-- X25519 key exchange, AES-128-GCM, RSA-PSS signatures
-- Docker, CI and tests included
 
-**[grill-me-multiple-choice](https://github.com/guilherme-luna/grill-me-multiple-choice)** · Claude Code skill
-- Open source (MIT): turns the grill-me interview into clickable multiple-choice questions
-- One-command install, English and Portuguese
+- [secure-multi-client-messaging](https://github.com/guilherme-luna/secure-multi-client-messaging): end-to-end encrypted chat in Python. The server only relays ciphertext. X25519, AES-GCM, RSA-PSS.
+- [grill-me-multiple-choice](https://github.com/guilherme-luna/grill-me-multiple-choice): Claude Code plugin that runs planning interviews as multiple-choice rounds.
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/guilherme-cardoso-b8a3b5450) · guilhermeluna.dev@gmail.com
+
+[LinkedIn](https://www.linkedin.com/in/guilherme-luna-dev) · guilhermeluna.dev@gmail.com
